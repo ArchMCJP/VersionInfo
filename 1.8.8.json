@@ -3,9 +3,9 @@
 	"name": "1b",
 	"description": "ArcchMC custom build 1b (beta)",
 	"refs": {
-		"BuildData": "838b40587fa7a68a130b75252959bc8a3481d94f",
-		"Bukkit": "01d1820664a5f881665b84b28871dadd132deaef",
-		"CraftBukkit": "741a1bdf3db8c4d5237407df2872d9857427bfaf",
-		"Spigot": "1dd1a731fc9166feb8eeef130fc62935e34a8f77"
+		"BuildData": "87b090abd6eb6fe144857b530ee030019089e643",
+		"Bukkit": "0fca4a3769b1d9658a71c835d9796479919ffd3e ",
+		"CraftBukkit": "037a0196cc32d895757598bcdc95a3ad96552abf",
+		"Spigot": "d5cf6c686abd1e8c68b82558ce0fe7dd8fda2fb8"
 	}
 }
